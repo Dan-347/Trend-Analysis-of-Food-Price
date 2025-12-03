@@ -27,3 +27,10 @@ Food price trend analysis is important in:
 - Providing data-driven recommendations for stock preparation, subsidy policies, and market interventions.
 
 By understanding price dynamics over four consecutive years, this analysis can serve as a basis for future policy planning or decision-making.
+
+## Analysis Steps
+This section describes the steps taken to analyze food price dynamics in Singaraja City during the period 2020–2023. The steps taken include:
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
