@@ -31,6 +31,10 @@ By understanding price dynamics over four consecutive years, this analysis can s
 ## Analysis Steps
 This section describes the steps taken to analyze food price dynamics in Singaraja City during the period 2020–2023. The steps taken include:
 1. Data Collection
+Collecting food commodity price data (rice, chicken eggs, granulated sugar, chicken meat, garlic) for the period 2020–2023. The data is stored in CSV format and processed using Python.
 2. Data Cleaning & Preprocessing
+This step is done to ensure data quality before further analysis. The process involved 
 3. Exploratory Data Analysis (EDA)
+The EDA stage is conducted to understand basic patterns and data structures. The activities carried out are examine the price distribution of each commodity, analyze annual and monthly trends, examine correlations between commodities, observe price volatility and the most volatile commodities, identify price anomalies, such as sudden spikes or significant declines, and compare patterns between commodities to see similarities or differences in trends.
 4. Data Visualization
+Visualization is used to aid interpretation and present findings more intuitively.
